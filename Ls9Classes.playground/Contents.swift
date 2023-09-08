@@ -21,6 +21,7 @@ c.name = "Tom"
 c.role = "Art Dicector"
 c.salary = 1200
 print(c.salary)
+c.doWork()
 
 var d = Employee()
 d.name = "Jane"
